@@ -9,6 +9,11 @@ namespace Money
     {
         static void Main(string[] args)
         {
+            BusinessCard bc = new BusinessCard();
+            CreditCart cc = new CreditCart();
+            Money money = new Money();
+
         }
     }
+
 }
