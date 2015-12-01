@@ -9,6 +9,7 @@ namespace Money
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
